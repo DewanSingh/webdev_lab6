@@ -7,12 +7,7 @@ body {
 }
 
 #header {
-	text-decoration: none;
-	position: absolute;
-	top:-34px;
-	right: 10px;
-	color: white;
-	font-size: 1.8em;
+	background-image: url("../images/black.jpg");
 }
 
 #header h1 {
@@ -61,7 +56,12 @@ h2 strong {
 
 
 #main-nav {
-
+	text-decoration: none;
+	position: absolute;
+	top:-34px;
+	right: 10px;
+	color: white;
+	font-size: 1.8em;
 }
 
 
