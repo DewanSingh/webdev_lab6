@@ -94,5 +94,7 @@ image-r {
 
 
 #main-nav ul li {
-
+	float: left;
+	position: relative;
+	right: 50%;
 }
