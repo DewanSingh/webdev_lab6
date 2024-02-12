@@ -110,3 +110,13 @@ image-r {
 	background-color: #ccc;
 	color: #333;
 }
+
+#center {
+  width: 960px;
+  text-align: center;
+}
+
+b {
+  font-weight: 900;
+  font-size: 48px;
+}
