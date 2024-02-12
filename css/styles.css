@@ -1,5 +1,5 @@
 body {
-
+	background-image: url("../images/black.jpg");
 }
 
 #page-wrapper {
@@ -7,7 +7,7 @@ body {
 }
 
 #header {
-	background-image: url("../images/black.jpg");
+
 }
 
 #header h1 {
