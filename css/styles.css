@@ -24,13 +24,13 @@ body {
 	color: #E35335;
 }
 
-#header a#logo1 img {
+#header img {
 	margin-top: 20px;
 	margin-left: 20px;
 	margin-bottom: 20px;
 }
 
-#header #toplink {
+#header #h1 {
 	text-decoration: none;
 	position: absolute;
 	top:-34px;
@@ -109,14 +109,4 @@ image-r {
 #main-nav ul li a:hover {
 	background-color: #ccc;
 	color: #333;
-}
-
-#center {
-  width: 960px;
-  text-align: center;
-}
-
-b {
-  font-weight: 900;
-  font-size: 48px;
 }
