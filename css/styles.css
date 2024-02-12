@@ -24,13 +24,16 @@ body {
 	color: #E35335;
 }
 
-#header img {
-	margin-top: 20px;
-	margin-left: 20px;
-	margin-bottom: 20px;
+#header a#logo1 img {
+	float: right;
+	border: 2px solid blue;
+	width: 300px;
+	padding: 5px;
+	background-color: white;
+	margin: 10px 0 10px 20px;
 }
 
-#header #h1 {
+#header #toplink {
 	text-decoration: none;
 	position: absolute;
 	top:-34px;
@@ -64,12 +67,9 @@ h2 strong {
 }
 
 image-r {
-	float: right;
-	border: 2px solid blue;
-	width: 300px;
-	padding: 5px;
-	background-color: white;
-	margin: 10px 0 10px 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
 }
 
 #side-content {
