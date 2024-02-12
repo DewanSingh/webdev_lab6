@@ -25,12 +25,9 @@ body {
 }
 
 #header a#logo1 img {
-	float: right;
-	border: 2px solid blue;
-	width: 300px;
-	padding: 5px;
-	background-color: white;
-	margin: 10px 0 10px 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
 }
 
 #header #toplink {
@@ -67,9 +64,12 @@ h2 strong {
 }
 
 image-r {
-	margin-top: 20px;
-	margin-left: 20px;
-	margin-bottom: 20px;
+	float: right;
+	border: 2px solid blue;
+	width: 300px;
+	padding: 5px;
+	background-color: white;
+	margin: 10px 0 10px 20px;
 }
 
 #side-content {
